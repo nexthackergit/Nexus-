@@ -1,5 +1,5 @@
 1. Install prerequisites and updates
-``` bash ok
+``` bash okok
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y build-essential pkg-config libssl-dev git-all protobuf-compiler curl
 ```
